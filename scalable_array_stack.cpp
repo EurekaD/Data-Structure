@@ -20,7 +20,6 @@ public:
 
     void push(char str);
     char pop();
-    void test();
     void scalable();
 
 };
