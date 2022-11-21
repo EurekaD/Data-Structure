@@ -74,7 +74,6 @@ int main(){
     test.push('d');
     test.push('e');
     test.push('f');
-    //test.test();
     for(int i=0; i<6; i++){
         cout<<test.pop()<<endl;
     }
